@@ -1,7 +1,7 @@
 # Security-alert
-new device security  alert in laravel
+New device security  alert in laravel
 
 
 
 Modification in your .env
-# NEW_DEVICE_NOTIFICATION = true/false
+NEW_DEVICE_NOTIFICATION = true/false
